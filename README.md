@@ -1,7 +1,6 @@
 ### Hi there 👋
 I’m looking for an exciting job offer where i can contribute my knowlege and skills in growth of the comapny.
-I would like to work in that environment which can help me to nurture my learning traits as well.
-Seeking an organization which can regonize my true potential without having any discrimination.
+I would like to work in that environment which can recognize my true potential and help me to nurture my learning traits as well.
 
 <!--
 **shaheen14/shaheen14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
